@@ -5,7 +5,7 @@
     <title><?php echo SITE_TITLE; ?></title>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <meta name="robots" content="noindex, nofollow">
-    <link rel="stylesheet" href="bootstrap.min.css">
+    <link rel="stylesheet" href="/bootstrap.min.css">
     <style>
       body { padding: 20px 0; }
       .brand { font-weight: bold;}

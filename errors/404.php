@@ -4,7 +4,7 @@
   <head>
     <title>404 Page Not Found - <?php echo SITE_NAME; ?></title>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-    <link rel="stylesheet" href="../bootstrap.min.css">
+    <link rel="stylesheet" href="/bootstrap.min.css">
     <style>
       body { padding: 20px 0; }
       .brand { font-weight: bold;}
