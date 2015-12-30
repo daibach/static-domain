@@ -6,6 +6,9 @@
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <meta name="robots" content="noindex, nofollow">
     <link rel="stylesheet" href="/bootstrap.min.css">
+    <?php if (isset($custom_css_file)) : ?>
+    <link rel="stylesheet" href="/<?php echo $custom_css_file; ?>">
+    <?php endif; ?>
     <style>
       body { padding: 20px 0; }
       .brand { font-weight: bold;}
